@@ -28,10 +28,21 @@ const k_muppet = {
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
+let cow="moo";
+let horse="neigh";
+let sheep="baa";
+let pig="oink";
+let chicken="cluck";
 
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them Bessie, Dolly, Babe, and Little.
-
+let anim1="Bessie";
+let anim2="Dolly";
+let anim3="Babe";
+let anim4="BessiLittlee";
 // 3. Little the chicken had to go back to the coop, so now we're left with three. Let's use color variables of black_and_white, black, and pink.
+let color1="black_and_white";
+let color2="black";
+let color3="pink";
 
 // Arrays
 
